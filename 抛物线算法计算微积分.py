@@ -4,7 +4,8 @@ def main():
     a=input("please input a qujian:")
     m=input("please input a fenshu:")
     z=S(y,a,m)
-    print z
+    print (z)
+    return
 
 def abc(y,a):
     x=a
